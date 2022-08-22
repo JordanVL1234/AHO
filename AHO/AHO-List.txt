@@ -1,0 +1,2 @@
+Idea :
+    - This etemt will atemt to comunicate between the host(THe computer runing the python code and the website) and the client(The computer that is on the website and running the python cache runner).

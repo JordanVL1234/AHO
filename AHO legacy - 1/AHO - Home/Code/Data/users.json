@@ -1,0 +1,16 @@
+{
+  "houesholdnum": 0,
+  "h0": [
+    {
+      "housepass": "housepass",
+      "usernum": 0,
+      "u0": [
+        {
+          "firstname": "firstname",
+          "lastname": "lastname",
+          "password": "password"
+        }
+      ]
+    }
+  ]
+}
